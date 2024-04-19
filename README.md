@@ -34,11 +34,13 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 
-## Features
 
-- Adding Two Numbers
-- Navbar Menu
-- Two Sum II - Input Array Is Sorted
+## Files (names as per given image)
+
+- calculator.js
+- navbar.js
+- question3.js
+
 
 
 ## Feedback
