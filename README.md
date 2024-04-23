@@ -37,7 +37,13 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 - calculator.js
 - navbar.js
-- question3.js
+- findTargetIndexes.js
+
+## Steps
+- clone aeon-coding-assessment repo in your system
+- checkout the main branch
+- run yarn dev
+- serve on localhost:3000
 
 
 ## GitHub Url
